@@ -1,0 +1,16 @@
+# Image Assets Required
+
+Please add the following images to this folder:
+
+1. printer-1.jpg - Large format printer image for hero section
+2. engraving.jpg - Engraving work image for hero section  
+3. printer-2.jpg - High quality printing image for hero section
+4. worker-machine.jpg - Professional worker with machine image
+
+All images should be:
+- High quality (at least 800px width)
+- Optimized for web (compressed)
+- Professional looking
+- Related to printing/laser cutting services
+
+You can use stock photos or your own company images.
